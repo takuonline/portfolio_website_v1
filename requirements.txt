@@ -155,7 +155,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pyodbc==4.0.30
 pyOpenSSL==19.1.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 scikit-image==0.16.1
 scikit-learn==0.22.2.post1
 scipy==1.4.1
